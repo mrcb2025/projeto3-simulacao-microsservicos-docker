@@ -1,4 +1,10 @@
 # Projeto de Simulação de Microsserviços com Docker Swarm, MySQL e Nginx
+[![Linux](https://img.shields.io/badge/OS-Linux-blue?style=flat-square&logo=linux)](https://www.linux.org/)
+[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Docker Swarm](https://img.shields.io/badge/Docker_Swarm-62A1EB?style=flat-square&logo=docker&logoColor=white)](https://docs.docker.com/engine/swarm/)
+[![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)](https://www.nginx.com/)
+
 Este projeto prático foi desenvolvido em resposta ao desafio proposto no Curso Linux-DIO.me, que explicitamente permitia replicar o projeto original **ou apresentar melhorias e evoluções**. Então, optei pela segunda proposta.
 
 **Abordagem e Justificativa para a "Melhoria":**
@@ -44,3 +50,7 @@ O script `projeto3.sh` implementa essa simulação, criando os serviços e confi
 **Conclusão:**
 
 Este projeto demonstra uma abordagem para a implementação de uma arquitetura de microsserviços utilizando Docker e suas ferramentas de orquestração e proxy reverso. Ao optar por simular essa arquitetura em vez de replicar diretamente a aplicação monolítica do projeto original, o objetivo foi apresentar uma compreensão de conceitos mais avançados e a capacidade de aplicar o Docker em cenários de sistemas distribuídos e escaláveis.
+
+## Autor
+
+Monica Campos
